@@ -1,0 +1,27 @@
+.input
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.inputBox
+{
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+	border-radius: 5px;
+	font-family: "Verdana";
+	z-index: 1;
+
+}
+
+.subbutton
+{
+	background: #614385;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #516395, #614385);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #516395, #614385); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	border-radius: 5px;
+}
